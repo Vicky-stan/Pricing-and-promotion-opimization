@@ -290,7 +290,8 @@ ORDER BY Gross_margin_percent DESC,
    - Customers in Kaduna are the most valuable customers with ₦36,380.79 in CLV. Lagos and Abuja follow closely with ₦36,056.77 and ₦35986.66 in CLV respectively, while Delta and Rivers lags closely behind at ₦35,555.09  and ₦35,374.58 — still substantial, Oyo and Kano have the lowest CLV values trailing behind at ₦35,337.07 and ₦35,216.8.
 - Insights:
    - The high CLV in Kaduna suggests higher spending, stronger loyalty, or longer customer relationships.
-   - Lagos and Abuja though lagging behind Kaduna are still key markets with high potential for revenue growth.
+   - Lagos and Abuja though lagging beh
+   - ind Kaduna are still key markets with high potential for revenue growth.
    - Delta and Rivers suggest the need to improve customer relationship in order to increase customer spending.
    - The lower CLV in Oyo and Kano may indicate room to improve retention or increase purchase frequency/value.
 
@@ -308,5 +309,90 @@ ORDER BY Gross_margin_percent DESC,
 
 
 ## Recommendation
-   
+1. Inventory & Product Availability Strategy:
+   - For the top 5 products that generate the most revenue, the following should be implemented;
+      - Ensure consistent restocking of top-performing products to avoid stockouts.
+      - Use demand forecasting models to predict and proactively meet inventory needs, especially before peak months (e.g., November).
+      - Bundle mid-performers with top performers (e.g., pair Laptop Force with Trousers Song) to increase sales of less popular items.
+     
+3. Product Category Focus:
+   - Electronics dominate sales; top subcategories include laptops and smartphones. recommendations include;
+      - Invest more in marketing and visibility for high-performing categories like Electronics and Home Appliances.
+      - Expand related product lines or accessories (e.g., smartphone accessories, laptop bags).
+      -  Apply tiered pricing strategies to attract different customer segments (e.g., budget vs. premium).
+     
+4. Profitability & Margin Optimization:
+   - Beverages products contribute most to gross margin %.
+      - Consider strategic price increases on high-margin products that are less price-sensitive.
+      - Promote cross-sell opportunities with high-margin products (e.g., Beverages + Snacks).
+      - Bundle high-margin products with lower margin items to balance profitability and volume.
 
+5. Promotion Strategy Recalibration:
+   - Flash Sale and Buy One Get One have negative uplift; discounts show no real gain.
+     - Pause or redesign ineffective promotions (especially bulk-buy promos).
+     - Test value-based promotions (e.g., free delivery, loyalty points) over price-based discounts.
+     - Introduce limited-time bundles or tiered rewards instead of blanket discounts to preserve margins.
+     - Use A/B testing to optimize promotional formats before scaling.
+       
+6. Attach Rate Optimization:
+   - High attach rates for skincare, beverages, and washing machines.
+     - Leverage “frequently bought together” sections in online stores and POS systems.
+     - Introduce product recommendations and smart bundling to promote add-ons.
+     - Offer time-bound deals for mid-performing products to increase their attach rates.
+       
+7. Regional Strategy
+   - Kaduna has the highest CLV, followed by Lagos and Abuja. Oyo and Kano trail behind.
+      - Run geo-targeted marketing campaigns for regions with lower CLV (Oyo, Kano) to increase engagement and loyalty.
+      - Conduct regional pricing experiments (e.g., discounts or value-adds) in lagging regions.
+      - Improve customer experience in high-CLV areas (Kaduna, Lagos) to maintain loyalty and referral potential.
+        
+8. Bundle Optimization:
+   - Trousers Power, Cereal However, Beverages Attack are top performers.
+      - Promote high-attach-rate bundles in key categories (fashion, groceries, appliances).
+      - Optimize bundle pricing to reflect value while protecting margin.
+      - Highlight benefits/value in messaging to reduce price resistance (e.g., “Save ₦500 when you bundle”).
+        
+9. Customer Retention & Loyalty:
+    - High CLV indicates strong customer loyalty in top regions.
+       - Launch or enhance a loyalty program tied to purchases and engagement.
+       - Use customer segmentation to send personalized offers based on past purchase behavior and CLV.
+       - Drive retention with exclusive deals, early access, and member-only bundles.
+
+10. Dynamic Pricing:
+    - Pricing impacts AOV and margin, but promotions are underperforming.
+       - Use dynamic pricing models based on:
+          - Demand patterns
+          - Seasonality
+          - Customer behavior (e.g., past purchase, cart value)
+       - Segment pricing strategies for:
+          - New vs. repeat customers
+          - High CLV vs. Low CLV locations
+       - Conduct regular price elasticity analysis to find sweet spots where price changes don’t affect volume drastically.
+
+## Conclusion
+This analysis provides a data-driven view of key performance areas across products, promotions, categories, regions, and customer behaviors. By identifying top revenue-generating products and categories, evaluating promotional effectiveness, and uncovering regional trends in customer lifetime value, we’ve highlighted clear opportunities to optimize pricing strategies, streamline inventory management, and improve marketing focus. 
+
+## Glossary of Terms
+- Average Order Value (AOV): A key metric in e-commerce that represents the average amount of money customers spend per order over a specific period, It helps businesses understand customer purchasing behavior and optimize pricing, marketing, and product strategies. It is calculated by dividing the total revenue by the total orders within a specific period of time.
+
+- Attach Rate: Attach Rate is a metric that measures how often an additional product or service (typically an accessory, add-on, or complementary item) is sold in relation to a primary product.
+It Helps track cross-sell effectiveness, indicates customer buying behavior and drives strategies for bundling or upselling.
+
+- Bundles: Bundles refer to a marketing and sales strategy where multiple products or services are packaged together and sold as a single combined unit—usually at a discounted price compared to buying each item separately.
+
+- Customer Lifetime Value (CLV): Customer Lifetime Value (CLV or LTV) is the total revenue a business can expect from a single customer over the entire duration of their relationship with the company. It’s a critical metric that helps businesses understand how valuable a customer is not just on a single purchase, but across all interactions over time.
+
+
+- Discounts: are reductions in the original selling price of a product or service, used to encourage customers to make a purchase. They're a common marketing and pricing strategy to drive sales volume, clear inventory, reward loyalty, or attract new customers.
+   
+- Revenue: Revenue is the total amount of money a business earns from its normal operations mainly through the sale of goods or services before any expenses are deducted.
+
+- Gross Margin: Gross Margin is a profitability metric that shows how much money a business keeps after subtracting the cost of goods sold (COGS) from revenue. It tells you how efficiently a company is producing or sourcing its products.
+
+- COGS: stands for Cost of Goods Sold, and it represents the direct costs of producing or purchasing the products a business sells during a specific period.
+
+Thank you for taking time to go through my documentation.
+
+Author:
+Nnam Victoria Chiamaka
+  
